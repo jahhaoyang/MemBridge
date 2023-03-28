@@ -1,6 +1,4 @@
-# Focus and Align: Learning Tube Tokens for Video-Language Pre-training
-
-The implementation of paper [**Focus and Align: Learning Tube Tokens for Video-Language Pre-training**](https://ieeexplore.ieee.org/document/9996559/).
+The implementation of paper [**MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge**]().
 
 Tube tokens are introduced to exploit the spatio-temporal information of frame patches for video-language pre-training. In order to leverage the complementary information within each frame, the learned semantic centers are utilized to integrate the patch representations within each frame. To enhance the alignments between videos and the paired descriptions, a local alignment mechanism is introduced.
 
